@@ -1,8 +1,3 @@
-This is the final piece of your portfolio! A professional README.md is what turns a folder of code into a Portfolio Project.
-
-I have structured this to look like a Senior Engineer's documentation. It explains the Architecture, the "Why", and the How-to.
-
-Copy the code below, create a file named README.md in your main folder, and paste it there.
 
 ✈️ Airport Operations RAG Chatbot
 A production-ready Retrieval-Augmented Generation (RAG) application designed to assist Airport Ground Staff, Safety Officers, and Operations Managers. This chatbot ingests complex PDF manuals (Standard Operating Procedures) and provides instant, citation-backed answers to queries regarding emergency protocols, ground handling, and safety regulations.
